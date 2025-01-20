@@ -7,7 +7,7 @@
 
 <h3 align="left">Social:</h3>
 <p align="left">
-    <a href="https://instagram.com/yisheng_cheww" target="blank">
+    <a href="https://instagram.com/3ei4" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yisheng_cheww" height="30" width="40" />
     </a>
     <a href="https://discord.gg/nf1" target="blank">
