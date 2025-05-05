@@ -3,6 +3,7 @@
 </div>
 <h1 align="center">Aljassmi</h1>
 
+- Owner Of **R6 Team**
 - Current Work On **No Fact RP**
 
 <h3 align="left">Social:</h3>
