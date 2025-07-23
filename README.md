@@ -15,6 +15,6 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="35" width="45" />
     </a>
     <a href="https://discord.gg/r6t" target="blank">
-        <img align="center" src="https://i.postimg.cc/tCWZ8w72/1.png" alt="discord" height="35" width="45" />
+        <img align="center" src="https://avatars.githubusercontent.com/u/187024899?v=4&size=64" alt="discord" height="35" width="45" />
     </a>
 </p>
